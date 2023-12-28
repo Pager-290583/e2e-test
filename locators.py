@@ -38,6 +38,7 @@ class Locators:
     VALIDATION_BULKI2 = (By.CLASS_NAME, "ab_tab_type_current__2BEPc")
     HEADERS_TEXT_BULKI = (By.XPATH, "//h2[text()='Булки']")
 
+    # СимЛинки для ссылок в проекте
     LINK = 'https://stellarburgers.nomoreparties.site/'
     LINK_PROFILE = 'https://stellarburgers.nomoreparties.site/account/profile'
     LINK_LOGIN = '/login'
