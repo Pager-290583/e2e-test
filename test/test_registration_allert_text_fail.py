@@ -1,3 +1,4 @@
+import allure
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions
 from selenium.webdriver.support.wait import WebDriverWait
@@ -6,6 +7,7 @@ from locators import Locators
 
 
 class TestRegistrationLenPassword:
+    @allure.feature('Проверка наличие Аллерта при невалидном пароде')
     def test_registration_len_password(self, driver, user_data):
         driver.find_element(*Locators.AUTH_BUTTON).click()
         driver.find_element(*Locators.REG_BUTTON).click()

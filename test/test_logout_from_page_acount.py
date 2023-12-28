@@ -1,3 +1,4 @@
+import allure
 from selenium.webdriver.support import expected_conditions
 from selenium.webdriver.support.wait import WebDriverWait
 
@@ -6,6 +7,7 @@ from test_date.constants import Constants
 
 
 class TestLogoutFromMyPageAccount:
+    @allure.feature('Проверка Разлогина со страницы Аккаунт')
     def test_auth_button_cabinet(self, driver, user_data):
         driver.find_element(*Locators.AUTH_BUTTON).click()
         driver.find_element(*Locators.INPUT_EMAIL).send_keys(Constants.TEST_EMAIL)

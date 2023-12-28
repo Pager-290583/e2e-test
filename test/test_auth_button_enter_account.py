@@ -1,3 +1,4 @@
+import allure
 from selenium.webdriver.support import expected_conditions
 from selenium.webdriver.support.wait import WebDriverWait
 
@@ -6,6 +7,7 @@ from test_date.constants import Constants
 
 
 class TestAuthIndexPage:
+    @allure.feature('Проверка авторизации с главной страницы через кнопку Войти')
     def test_auth_button_cabinet(self, driver, user_data):
         driver.find_element(*Locators.BUTTON_LOGIN_INDEX_PAGE).click()
         driver.find_element(*Locators.INPUT_EMAIL).send_keys(Constants.TEST_EMAIL)
@@ -13,5 +15,5 @@ class TestAuthIndexPage:
         WebDriverWait(driver, 10).until(expected_conditions.element_to_be_clickable(Locators.LOGIN_BUTTON)).click()
         WebDriverWait(driver, 10).until(expected_conditions.element_to_be_clickable(Locators.VALIDATION_TEXT)).click()
         elm = driver.find_element(*Locators.VALIDATION_TEXT).text
-        assert elm == 'Оформить заказ'
+        assert elm == 'Оформить зака'
 

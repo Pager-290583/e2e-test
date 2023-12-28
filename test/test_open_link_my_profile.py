@@ -1,3 +1,4 @@
+import allure
 from selenium.webdriver.support import expected_conditions
 from selenium.webdriver.support.wait import WebDriverWait
 
@@ -6,7 +7,7 @@ from test_date.constants import Constants
 
 
 class TestOpenLinkMyAccount:
-
+    @allure.feature('Проверка ссылки на Профиль')
     def test_open_my_account(self, driver, user_data):
         driver.find_element(*Locators.AUTH_BUTTON).click()
         driver.find_element(*Locators.NAME_INPUT).send_keys(Constants.TEST_EMAIL)

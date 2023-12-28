@@ -1,7 +1,6 @@
 import pytest
 from selenium import webdriver
 
-
 from test_date.constants import Constants
 from test_date.user_data import UserData
 

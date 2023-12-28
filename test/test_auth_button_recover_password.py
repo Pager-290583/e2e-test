@@ -1,3 +1,4 @@
+import allure
 from selenium.webdriver.support import expected_conditions
 from selenium.webdriver.support.wait import WebDriverWait
 
@@ -6,6 +7,7 @@ from test_date.constants import Constants
 
 
 class TestAuthButtonRecoveryPassword:
+    @allure.feature('Проверка авторизации со страницы Восстановление пароля')
     def test_auth_page_recovery_password(self, driver, user_data):
         driver.find_element(*Locators.AUTH_BUTTON).click()
         driver.find_element(*Locators.ENTER_BUTTON).click()

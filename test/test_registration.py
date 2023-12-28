@@ -1,9 +1,12 @@
+import allure
 from selenium.webdriver.support import expected_conditions
 from selenium.webdriver.support.wait import WebDriverWait
 
 from locators import Locators
 
+
 class TestRegistrationPass:
+    @allure.feature('Регистрация')
     def test_registration(self, driver, user_data):
         driver.find_element(*Locators.AUTH_BUTTON).click()
         driver.find_element(*Locators.REG_BUTTON).click()
