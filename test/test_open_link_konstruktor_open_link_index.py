@@ -1,14 +1,16 @@
 import allure
+from selenium.webdriver.chrome.webdriver import WebDriver
 from selenium.webdriver.support import expected_conditions
 from selenium.webdriver.support.wait import WebDriverWait
 
 from locators import Locators
 from test_date.constants import Constants
+from test_date.user_data import UserData
 
 
 class TestOpenLinkKonstruktorLinkInedx:
     @allure.feature('Проверка кликабельности ссылки Конструктор и Логотип')
-    def test_auth_click_account_click_konstr_click_index(self, driver, user_data):
+    def test_auth_click_account_click_konstr_click_index(self, driver: WebDriver, user_data: UserData):
         driver.find_element(*Locators.BUTTON_LOGIN_INDEX_PAGE).click()
         driver.find_element(*Locators.NAME_INPUT).send_keys(Constants.TEST_EMAIL)
         driver.find_element(*Locators.STATIC_PASSWORD).send_keys(Constants.PASSWORD)
