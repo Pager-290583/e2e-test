@@ -49,8 +49,7 @@ jobs:
           uses: actions/upload-artifact@v3
           with:
             name: _site
-            path:
-              _site
+            path: _site
             retention-days: 1
 
   publish-report:
