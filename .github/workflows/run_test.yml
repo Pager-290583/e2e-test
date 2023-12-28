@@ -1,0 +1,23 @@
+name: Automated tests
+
+on:
+  push
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+      - name: setup Python
+        uses: actions/setup-python@4
+        with:
+          python-version: "3.9"
+      - name: Install Chrome
+        run: sudo apt-get install google-chrome-stable
+      - name: install dependencies
+        run: pip install -r requrements.txt
+      - name: Run tests
+        run: pytest
