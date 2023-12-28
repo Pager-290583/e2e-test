@@ -1,11 +1,17 @@
 name: Automated tests
 
 on:
-  pull_request:
-    branches:
-      - master
-      - develop
+  [ push, pull_request:
+            branches:
+              - master
+              - develop
+  ]
 
+defaults:
+permissions:
+env:
+run-name:
+concurrency:
 jobs:
   test:
     runs-on: ubuntu-latest
