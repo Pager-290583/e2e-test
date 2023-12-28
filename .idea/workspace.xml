@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0c9cccdf-b12b-493d-838e-c945cb3d5b1b" name="Changes" comment="new run-test" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Pager-290583&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="d5c2d760-a064-4ddc-ae72-a619f356a5ec" />
+        <option name="url" value="git@github.com:/Pager-290583/e2e-test.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2aAUEtm0sAUwhGCUjbsvvWomdQA" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python tests.Python tests for test_registration.TestRegistrationPass.executor": "Run",
+    "Python tests.Python tests for test_slide_menu_sous.TestClickTabBulki.executor": "Run",
+    "Python tests.Python tests in test_slide_menu_sous.py.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "develop__test",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Python tests for test_slide_menu_sous.TestClickTabBulki" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="e2e-test" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_slide_menu_sous.TestClickTabBulki&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests for test_slide_menu_sous.TestClickTabBulki" />
+        <item itemvalue="Python tests.Python tests for test_slide_menu_sous.TestClickTabBulki" />
+        <item itemvalue="Python tests.Python tests for test_registration.TestRegistrationPass" />
+        <item itemvalue="Python tests.Python tests for test_slide_menu_sous.TestClickTabBulki" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-50da183f06c8-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13135.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c9cccdf-b12b-493d-838e-c945cb3d5b1b" name="Changes" comment="" />
+      <created>1703760768253</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1703760768253</updated>
+    </task>
+    <task id="LOCAL-00001" summary="add">
+      <option name="closed" value="true" />
+      <created>1703761064131</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1703761064131</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add">
+      <option name="closed" value="true" />
+      <created>1703761121731</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1703761121731</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add">
+      <option name="closed" value="true" />
+      <created>1703761487568</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1703761487568</updated>
+    </task>
+    <task id="LOCAL-00004" summary="edit">
+      <option name="closed" value="true" />
+      <created>1703761718083</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1703761718083</updated>
+    </task>
+    <task id="LOCAL-00005" summary="edit">
+      <option name="closed" value="true" />
+      <created>1703761902911</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1703761902911</updated>
+    </task>
+    <task id="LOCAL-00006" summary="rename file">
+      <option name="closed" value="true" />
+      <created>1703762022086</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1703762022086</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Check headless">
+      <option name="closed" value="true" />
+      <created>1703762268770</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1703762268770</updated>
+    </task>
+    <task id="LOCAL-00008" summary="New ON workFlows">
+      <option name="closed" value="true" />
+      <created>1703763573833</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1703763573833</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Add gitignore">
+      <option name="closed" value="true" />
+      <created>1703763626748</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1703763626748</updated>
+    </task>
+    <task id="LOCAL-00010" summary="New comment">
+      <option name="closed" value="true" />
+      <created>1703763790472</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1703763790472</updated>
+    </task>
+    <task id="LOCAL-00011" summary="rename branch">
+      <option name="closed" value="true" />
+      <created>1703763856269</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1703763856269</updated>
+    </task>
+    <task id="LOCAL-00012" summary="add new workflows">
+      <option name="closed" value="true" />
+      <created>1703764159130</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1703764159130</updated>
+    </task>
+    <task id="LOCAL-00013" summary="add new workflows">
+      <option name="closed" value="true" />
+      <created>1703764211670</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1703764211670</updated>
+    </task>
+    <task id="LOCAL-00014" summary="add new workflows">
+      <option name="closed" value="true" />
+      <created>1703764257109</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1703764257109</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Edit readme">
+      <option name="closed" value="true" />
+      <created>1703764651190</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1703764651190</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Edit readme">
+      <option name="closed" value="true" />
+      <created>1703768746075</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1703768746075</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Edit readme">
+      <option name="closed" value="true" />
+      <created>1703768832986</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1703768832986</updated>
+    </task>
+    <task id="LOCAL-00018" summary="allure server">
+      <option name="closed" value="true" />
+      <created>1703768927820</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1703768927820</updated>
+    </task>
+    <task id="LOCAL-00019" summary="edit test">
+      <option name="closed" value="true" />
+      <created>1703769051307</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1703769051307</updated>
+    </task>
+    <task id="LOCAL-00020" summary="edit test">
+      <option name="closed" value="true" />
+      <created>1703769191132</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1703769191132</updated>
+    </task>
+    <task id="LOCAL-00021" summary="new run-test">
+      <option name="closed" value="true" />
+      <created>1703769906273</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1703769906273</updated>
+    </task>
+    <task id="LOCAL-00022" summary="new run-test">
+      <option name="closed" value="true" />
+      <created>1703769998818</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1703769998818</updated>
+    </task>
+    <task id="LOCAL-00023" summary="new run-test">
+      <option name="closed" value="true" />
+      <created>1703770021077</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1703770021077</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="develop_test" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="add" />
+    <MESSAGE value="edit" />
+    <MESSAGE value="rename file" />
+    <MESSAGE value="Check headless" />
+    <MESSAGE value="New ON workFlows" />
+    <MESSAGE value="Add gitignore" />
+    <MESSAGE value="New comment" />
+    <MESSAGE value="rename branch" />
+    <MESSAGE value="add new workflows" />
+    <MESSAGE value="Edit readme" />
+    <MESSAGE value="allure server" />
+    <MESSAGE value="edit test" />
+    <MESSAGE value="new run-test" />
+    <option name="LAST_COMMIT_MESSAGE" value="new run-test" />
+  </component>
+</project>
