@@ -15,5 +15,5 @@ class TestAuthIndexPage:
         WebDriverWait(driver, 10).until(expected_conditions.element_to_be_clickable(Locators.LOGIN_BUTTON)).click()
         WebDriverWait(driver, 10).until(expected_conditions.element_to_be_clickable(Locators.VALIDATION_TEXT)).click()
         elm = driver.find_element(*Locators.VALIDATION_TEXT).text
-        assert elm == 'Оформить зака'
+        assert elm == 'Оформить заказ'
 
