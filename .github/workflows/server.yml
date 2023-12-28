@@ -27,28 +27,15 @@ jobs:
       - name: install dependencies
         run: pip install -r requirements.txt
       - name: Run tests
-        run: pytest
+        run: pytest --alluredir=allure-results
       - name: all
         if: "github.event.inputs.deployment_target == 'all'"
         run: pytest --alluredir=allure-results
         continue-on-error: true
-      - run: sudo apt install zip && zip -r allure-results.zip allure-results
-      - name: upload results
-        run: >
-          UUID=$(curl -X "POST" "http://${{ secrets.SERVER }}/api/result" 
-          -H 'accept: */*' 
-          -H 'Content-Type: multipart/form-data' 
-          -F 'allureResults=@allure-results.zip;type=application/zip' 
-          | python3 -c "import sys, json; print(json.load(sys.stdin)['uuid']);") 
-          &&
-          curl -X 'POST' 
-          "http://${{ secrets.SERVER }}/api/report" 
-          -H 'accept: */*' 
-          -H 'Content-Type: application/json' 
-          -d "{\"reportSpec\":{\"path\":[\"pathstring\"],\"executorInfo\":{\"name\":\"GitHub\",\"type\":\"exectype\",\"url\":\"https://github.com/senior-tester/run-tests-demo/actions/workflows/server.yml\",\"buildOrder\":0,\"buildName\":\"$GITHUB_RUN_NUMBER\",\"buildUrl\":\"https://github.com/senior-tester/run-tests-demo/actions/runs/$GITHUB_RUN_ID\",\"reportName\":\"my_report_name\",\"reportUrl\":\"my_report_url\"}},\"results\":[\"$UUID\"],\"deleteResults\":true}"
-      - name: Store allure results
+
         uses: actions/upload-artifact@v3
         with:
           name: allure-results
           path: allure-results
           retention-days: 1
+
