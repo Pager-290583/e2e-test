@@ -4,7 +4,118 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c9cccdf-b12b-493d-838e-c945cb3d5b1b" name="Changes" comment="new run-test" />
+    <list default="true" id="0c9cccdf-b12b-493d-838e-c945cb3d5b1b" name="Changes" comment="new run-test">
+      <change afterPath="$PROJECT_DIR$/results/01ae1a0e-ff22-41c2-9f07-05a175a83b21-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/02bd0d33-81f3-4ee3-91a1-64acb6d30e95-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/0326769e-e46a-45be-af08-9073919f5a8a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/03e9b9b5-395b-4235-9a91-c249b24910ac-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/0781fb82-7ffc-4085-aa9f-138553cce0e6-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/0b6c0da7-f1ca-4f75-a532-e9e7d3d19a2f-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/0c153170-6d62-40b9-925f-0f344629757e-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/0c4651ed-f5a5-44e4-a6bb-8ba5470d4bee-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/0dbcf376-dda5-4d22-b71a-824c810710fc-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/0ea6ad1f-9c7c-4ae2-9f1b-a3ad8054a971-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/0f37b243-c59d-4e11-8dd5-8813bb9b2524-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/111d4895-b3d4-46f9-9488-1436077c91be-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/11e61add-101f-4a03-b9f2-4bbaf454620e-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/11f26a35-7ead-43b9-a802-ad12edcdffbc-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/13df7452-2f77-4c27-a131-41369c8532c1-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/166b1ffd-2e76-4c99-a3e6-5ff36c8a66fe-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/17453754-3ec5-4b18-accf-253cf5fc3c7d-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/185f4af4-f53a-4493-8eaa-c73af7add225-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/191cb53b-c1a9-452c-97c9-8ac1425ebd3a-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/1c42b6c7-742e-4203-b0a6-ae0d3f84f26a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/1d461d44-eccf-40a1-b9bd-2693ef119402-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/242763e6-d51d-4521-b35f-dc901942a96c-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/258cdd89-97b8-442f-a2d3-249b8c0edd7e-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/26f3b4b8-79ac-4fc7-be90-383ff0e4c324-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/293280ae-bf8e-4a96-9ffd-0347096133ee-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/29e9427a-8b64-4adb-a3e6-20b4dd740a6d-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/2d865c79-e336-43bf-8240-8d756e3038be-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/2dc73b29-8c9a-4d1d-b21b-7ebe399f4845-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/2e0668ae-adcb-41d2-b4b3-d000430f3744-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/33218b24-f462-40e0-992a-5465b594a004-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/33fab0e1-189c-4c4c-8b56-8b50870612d9-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/36728a15-c020-465b-8686-7864084fee21-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/39ba1f01-631e-40c8-bea1-735e33ca6c9d-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/3a7e2b14-0b30-4df5-a438-9a7a0aa61e20-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/3ba239c3-0798-4ae8-a058-cc73ca425fea-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/4297a87f-6be0-4400-af9e-4ce82005fa46-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/42fb2f22-4916-4315-8843-ed5a4fc3c7ab-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/435559ac-8881-43b8-83a3-e67c15973519-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/437d8dc0-aa8c-4ae5-bae5-a712315405e6-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/450fabe5-e769-4dd4-bd33-f22dab585983-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/466cc1b0-1d3f-456b-8cea-2750f37ff982-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/4726f66e-8b09-4532-932c-60f91ee1a5e7-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/47ec4fca-654e-4b3d-b6c8-b48cecf9f3d9-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/4b879652-5696-4422-9f38-027c388e2316-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/4cff2ac3-4f04-47ad-a680-fa78fde6c15f-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/4f804960-43e0-4f6e-bd36-fe95672d3a69-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/527bcf51-eb0a-4a1e-8d17-29ea4c089304-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/5670dd7b-9ea4-45da-b2af-a943f788150d-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/57851283-af46-40b8-932c-c60c540eb2c6-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/5bf32622-e4db-452e-9a0b-82a76a80dd0c-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/60d180ab-d28d-45e4-b4c4-154883206c1a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/6256ef33-ebad-4317-987d-2acd093877a6-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/6324915d-96a5-498f-801b-d175ef191878-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/64037da5-1091-4211-b375-e13e6be7ad53-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/65419939-4a28-4c4c-b895-e5f68dba43ee-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/67c1bda9-9a0f-44d7-ab71-541d7a9f29d7-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/6926dc7a-49d2-4eb4-8323-1d2b92aac3db-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/6cc477ca-0299-4fd6-896a-d0d990dc447b-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/6d846e27-fbd8-43a7-97e7-fc2441bc3062-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/6daa8e2f-8b48-413a-9262-d1c4b17a559c-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/6db276bf-7500-4464-bd39-eb9b8070da85-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/6e68307c-5b2f-48f9-a21c-ec3c1775261b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/707744b1-e2d3-4fc8-b740-b94ca695fd0d-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/70ebfc0b-a550-4f0c-b9ce-5662ce1c2d1d-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/766cd0cc-fc05-49c6-aac0-3fa17e742505-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/78ac96cb-074f-4ee6-bb6d-712e62a7064e-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/7a55416b-4b6b-4846-aae1-c1381eff2e10-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/811803ae-b0e6-42bf-99e5-9ad199c7cb59-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/81f5c318-7b17-4e66-8c46-7b44b3a6c315-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/8aa3faae-923d-419f-bdd1-81b4a6076012-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/951eacc8-33a8-41ca-a981-5e039931715c-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/990c5974-ac25-45fc-bcea-ad9478edf4f0-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/9d1ed8a6-2c78-4ce5-be60-007712a8bd13-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/a28409cd-1dd5-4c33-9711-43765b6b5af5-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/a3c77891-0bf8-44ed-90bd-6c076c717421-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/a9be19f7-4527-4435-8d6e-8768929672ac-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/aa0cd647-b1e7-43e8-92c6-d3ded2e68d8c-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/b4045d79-ed8b-4506-84ed-9c06d4fb4dee-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/b6c0bbd0-2bef-4eaf-8b3f-3da71eb979ae-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/b6df9865-aa04-4500-bc77-fc1c09af5ec6-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/b78a9164-ff28-4495-a096-8bd8b4ad8935-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/b857c4b2-a3bd-4c00-98b1-d868bf4a3c2c-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/b872f24c-3674-4a46-9f42-f695441dc839-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/b97aac2d-f16c-4f0d-a560-c19d10a9c4f5-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/bd214ac8-8041-429a-81cc-92a0b443945e-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/c0d06dd6-b495-4542-a258-272c65805428-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/c18877c2-67b3-431d-a9c6-631cb1e5fb21-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/cb36e76a-ee34-4ee4-b77a-b8a688a6534f-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/cb600332-0501-47b3-b89b-066d8c76c255-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/cb607045-9d09-428c-980f-06add9030aec-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/d0c710ba-21c3-43de-85b8-feabf20f07f0-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/d356e7c4-4015-4f7e-9ca7-36382dcb4249-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/d7915bda-fb9e-40fd-a6c1-7cbbee69cb35-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/d9bfeb66-b88c-4a2b-ad0c-beba2fa5e272-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/db6b1f23-241a-4e35-8607-0e094c9e3365-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/dc8a89b0-3180-43b7-ae63-901bce4bf9d3-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/dd2e571a-7de9-4df3-bd7e-8d522ad88f8c-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/e51e0b50-2171-470e-9640-484c24d6146b-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/e84b2e50-a371-4da9-b7ae-1de3216d3020-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/ed576c99-670d-47c4-b87f-a2ef5dbb6dc1-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/ef3222c6-421c-4b59-ada7-5be3a78f0677-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/f31f4dfa-c644-4545-b1a6-90ea40673e4f-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/f5982ba4-7b1a-4ac3-9417-63a268fa587d-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/f9433173-ea60-4b40-bb1c-71e0a4514690-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/fa700865-dd0f-454f-a378-3538a4042d90-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/fc3ae903-0bd7-49ca-90fb-06e8e4ccad6e-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/fe7c830c-e006-4077-84b5-25cc548488e8-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/ffb9cc45-5274-44ad-bdec-41acbb1ed308-result.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test_registration.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/test_registration.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,18 +157,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Python tests.Python tests for test_registration.TestRegistrationPass.executor": "Run",
-    "Python tests.Python tests for test_slide_menu_sous.TestClickTabBulki.executor": "Run",
-    "Python tests.Python tests in test_slide_menu_sous.py.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "develop__test",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python tests.Python tests for test_registration.TestRegistrationPass.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_slide_menu_sous.TestClickTabBulki.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_slide_menu_sous.py.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Python tests for test_slide_menu_sous.TestClickTabBulki" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="e2e-test" />
@@ -78,7 +189,6 @@
       <list>
         <item itemvalue="Python tests.Python tests for test_slide_menu_sous.TestClickTabBulki" />
         <item itemvalue="Python tests.Python tests for test_slide_menu_sous.TestClickTabBulki" />
-        <item itemvalue="Python tests.Python tests for test_registration.TestRegistrationPass" />
         <item itemvalue="Python tests.Python tests for test_slide_menu_sous.TestClickTabBulki" />
       </list>
     </recent_temporary>

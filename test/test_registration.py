@@ -8,6 +8,9 @@ from test_date.user_data import UserData
 
 
 class TestRegistrationPass:
+    @allure.title('Проверка регистрации')
+    @allure.step('Открываем страницу')
+    @allure.step('Открываем браузер и находим форму регистрации')
     @allure.feature('Регистрация')
     def test_registration(self, driver: WebDriver, user_data: UserData):
         driver.find_element(*Locators.AUTH_BUTTON).click()
